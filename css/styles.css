@@ -1,0 +1,206 @@
+
+      /* Element */
+body{font-family: "Ubuntu";}
+
+h1,h2,h3,h4,h5,h6
+{
+  font-family:"Montserrat", sans-serif;
+}
+
+/* TODO:  */p{color: #8f8f8f;width: 14rem; margin: auto;}
+
+      /* Global */
+
+.btn{margin: 5% 3%;}
+
+.row {margin:5% 5%;}
+
+.container-fluid
+{
+  padding: 3% 15%;
+  position: relative;
+}
+
+      /* Title Section */
+
+#title
+{
+  background-color: #ff4c68;
+  height: 700px;
+}
+
+      /* Navegation Bar */
+
+.bar
+{
+  margin-bottom: 4.5rem ;
+  padding-left: 0;
+ }
+
+.nav-item{margin-right: 18px;}
+
+.navbar-brand
+{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+      /* Title */
+
+.phone
+{
+  transform: rotate(20deg);
+  width: 75%;
+  position: relative;
+}
+
+.Title-text
+{
+  font-size: 3rem ;
+  line-height: 1.5;
+  font-weight: 900;
+  color: white;
+}
+
+      /* Features */
+
+.fimg
+{
+  width: 25%;
+  margin: 5% auto;
+}
+
+.f{padding: 3% 10%;}
+
+#features
+{
+  text-align: center;
+  margin: 10% 0;
+  position: relative;
+  /* TODO:  */z-index: 1;
+  background-color: #fff;
+}
+
+.feature-text
+{
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+      /* Testimonials */
+
+.testimonial-image
+{
+  border-radius: 100%;
+  width: 7%;
+}
+
+.carousel-inner
+{
+  width: 75%;
+  margin: 0 auto;
+  padding: 5%;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.testimonial-text
+{
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 2.5rem;
+  padding-bottom: 5%;
+}
+
+.carousel
+{
+  background-color: #ff4c68;
+  text-align: center;
+  position: relative;
+}
+
+.pressI{width: 15%;}
+
+.PS
+{
+  text-align: center;
+  background-color: #ff4c68;
+  padding-bottom: 5%;
+}
+
+      /* Pricing  */
+
+.card-btn {width: 100%;}
+
+.card
+{ width: 90%;
+  margin: 0 auto;
+}
+
+.card-title
+{
+  color: black ;
+  font-family: serif;
+  font-weight: 400;
+}
+
+.card-header{font-size: 2rem;}
+
+.card-text{line-height: 2;}
+
+#pricing
+{
+  text-align: center;
+  margin: 7% 0;
+}
+
+.c
+{
+  text-align: center;
+  position: relative;
+}
+
+.pricing-title
+{
+  font-size: 3rem;
+  font-family: serif;
+  line-height: 1.2;
+}
+
+.pricing-subtitle
+{
+  display: inline;
+  font-size: 1.2rem;
+}
+
+      /* CTA */
+
+#cta
+{
+  background-color:#ff4c68;
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.cta-text
+{
+  color: white;
+  font-family: serif;
+  font-size: 4rem;
+  font-weight:400;
+  line-height: 1.5;
+  margin-bottom: 2%;
+}
+
+      /* Footer */
+
+.social-icon{margin: 2% 0.5%;}
+
+#footer
+{
+  padding: 7%;
+  text-align:center;
+}
+
+.footer-text{display: inline;}
